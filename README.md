@@ -14,3 +14,11 @@
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thangsuperman&show_icons=true&locale=en&layout=compact" alt="thangsuperman" /></p> -->
+
+- Cloud
+
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google)
+
+- OS & Other Technologies
+
+  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
