@@ -17,7 +17,7 @@
 
 - Cloud
 
-  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google)
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 - OS & Other Technologies
 
