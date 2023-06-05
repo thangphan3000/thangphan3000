@@ -2,6 +2,8 @@
 
 ### Heya! 👋
 
+### Currently. I am studying about the Devops industry
+
 ![gopher dancing](./dancing-gopher.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thangsuperman&label=Profile%20views&color=0e75b6&style=flat" alt="thangsuperman" /> </p>
