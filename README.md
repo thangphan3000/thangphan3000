@@ -1,1 +1,1 @@
-i like developmenent and operation things
+i like development and operation things
