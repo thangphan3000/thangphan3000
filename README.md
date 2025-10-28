@@ -1,5 +1,5 @@
 <h3 align="left">Introduction:</h3>
-🍵 Hola, my name is Thang (Lixun)
+🍵 Hola, my name is Thang
 <br />
 💖 I like development and operational things
 
